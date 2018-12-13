@@ -8,3 +8,8 @@ user_input = input()
     function """
 
 input_hint = input("type your name - ")
+
+""" A variable can also be passed instead of an hard-coded quoted text inside the parenthesis of input() """
+
+hint      = "type your birthdate - "
+birthdate = input(hint) 
