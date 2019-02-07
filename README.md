@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/teamtact/https://github.com/teamtact/python-75-hackathon.svg)](http://hits.dwyl.io/teamtact/https://github.com/teamtact/python-75-hackathon)
+
 # Python 75 hackathon
 
 Criteria is below:
